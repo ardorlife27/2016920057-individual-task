@@ -12,11 +12,11 @@
  - Ruby
 ## Database
  ### MySQL
- -오라클(회사)
+ - 오라클(회사)
  ### Maria DB
  - 오픈소스
  ### Oracle
- -유닉스 환경
+ - 유닉스 환경
 ## Cache
  ### Memcached
  - 오픈소스
