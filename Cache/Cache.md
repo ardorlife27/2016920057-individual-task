@@ -1,6 +1,12 @@
-## Client
- ### 안드로이드
- - 모바일 운영체제
+## Cache
+ ### Memcached
+ - General-purpose distributed memory caching system
+ - free and open-source software
+ - runs on Unix-like operating systems
+ - runs on Microsoft Windows
+ - depends on the libevent library
+   - libevent library
+     - provide asynchronous event notification
  - Google
    - 선다 피차이
    - 래리 페이지
