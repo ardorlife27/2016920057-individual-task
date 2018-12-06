@@ -40,52 +40,67 @@
    - GigaSpaces XAP
 
  ### Redis
- - 모바일 운영체제
- - 애플
-   - Shazam
-   - 사과 로고
-   - 스티븐 잡스
-     - 췌장암
-   - 스티브 워즈니악
-   - 팀 쿡
-     -MBA
-   - 존 스컬리
-   
-   
- - 앱스토어
- - 안정성
- - 보안
-   - 애플에 의해 관리철저
-   - 보안성 우수
-   - 폐쇄성
- - 최적화
- - 아이튠즈
- - 배터리게이트
-   - 2017년
-   - 스로틀링
-   - IOS 업데이트
-   - 소송
-   - IOS업데이트 후 해결
- - 친환경 정책
-
-## Server
- ### Spring
- - Java
- ### Flask
- - Python
- ### Ruby on Rails
- - Ruby
-## Database
- ### MySQL
- - 오라클(회사)
- ### Maria DB
- - 오픈소스
- ### Oracle
- - 유닉스 환경
-## Cache
- ### Memcached
- - 오픈소스
- ### Redis
- - 키-값 구조
- - 비관계형 데이터베이스 관리시스템
- ### Arcus
+ - Remote Dictionary Server
+ - Salvatore Sanfilippo(2009)
+   - VMware
+   - Pivotal Software
+   - Redis Labs
+ - currently sponsored by Redis Labs(since 2015)
+ - open-source DBMS based on memory
+ - Typically holds the whole dataset in memory
+ - Support different kinds of abstract data structures
+   - strings
+   - lists
+   - maps
+   - sets
+   - sorted sets
+   - hyperloglogs
+   - bitmaps
+   - streams
+   - spatial indexes
+ - Supported languages
+   - C
+   - C++
+   - ActionSCript
+   - C#
+   - Chicken Scheme
+   - Clojure
+   - PHP
+   - Pure Date
+   - Python
+   - R
+   - Racket
+   - Ruby
+   - Rust
+   - Scala
+   - Smalltalk
+   - Swift
+   - Tcl
+   - Common Lisp
+   - Crystal
+   - D
+   - Dart
+   - Erlang
+   - Go
+   - Haskell
+   - Haze
+   - Io
+   - Java & JavaSCript
+   - Julia
+   - Lua
+   - Objective-C
+   - OCaml
+   - Perl
+ - Data types
+   - Redis maps keys to types of values
+     - Lists of strings
+     - Sets of strings
+     - Sorted sets of strings
+     - Hash tables where keys and cardinality size estimation
+     - Stream of entries with consumer groups
+     - Geospatial data through the implementation of the geohash technique since Redis 3.2.
+ - Popularity
+   -Redis is often ranked the most popular key-value database
+     - DB-Engines ranking
+   -Popular NoSQL
+  
