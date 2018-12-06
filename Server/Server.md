@@ -71,7 +71,7 @@
     - Jinja
       - teplate engine
         - template evaluated in a sandbox
-      - Similar toe the Django web framework
+      - Similar to the Django web framework
   - Feature
     - Google App Engine compatibility
     - Unicode-based
