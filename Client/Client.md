@@ -1,6 +1,7 @@
 ## Client
  ### 안드로이드
  - 모바일 운영체제
+ - IOS와 비교해 높은 점유율 차지
  - Google
    - 선다 피차이
    - 래리 페이지
@@ -82,25 +83,3 @@
    - 소송
    - IOS업데이트 후 해결
  - 친환경 정책
-
-## Server
- ### Spring
- - Java
- ### Flask
- - Python
- ### Ruby on Rails
- - Ruby
-## Database
- ### MySQL
- - 오라클(회사)
- ### Maria DB
- - 오픈소스
- ### Oracle
- - 유닉스 환경
-## Cache
- ### Memcached
- - 오픈소스
- ### Redis
- - 키-값 구조
- - 비관계형 데이터베이스 관리시스템
- ### Arcus
