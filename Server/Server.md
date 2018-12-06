@@ -2,6 +2,17 @@
  ### Spring
  - Open source framework
  - framework based Java
+   - Java
+     - Sun Microsystems
+     - James Arthur Gosling
+     - Object-Oriented Programming language
+     - category
+       - Jave SE
+       - Jakarta EE
+       - Java ME
+       - JavaFX
+     - independent with platform
+   
    - Java Virtual Machine
    - Apache license 2.0
  - Rod Johnson
@@ -38,6 +49,31 @@
      - Web : 웹 어플리케이션에 도움이되는 기능 제공
        - Spring Web MVC, Strcts, WebWork
 ### Flask
-  
-
+  - Microframework
+    - need not particular tools or libraries
+  - Armin Ronacher
+    - Pocoo
+  - Commonly used with MongoDB
+  - Framework based Python
+    - python
+    - Django
+  - Applications
+    - Pinterest
+    - Reddit
+    - LinkedIn
+    - community web page for Flask itself
+  - Componenets
+    - Werkzeug
+      - utility library for the Python programming language
+      - toolkit for Web Server Gateway Interface(WSGI)
+    - Jinja
+      - teplate engine
+        - template evaluated in a sandbox
+      - Similar toe the Django web framework
+  - Feature
+    - Google App Engine compatibility
+    - Unicode-based
+    - Uses Jinja2 templating
+    - 100% WSGI 1.0 compiant
+    - contains development server and debugger
  ### Ruby on Rails
