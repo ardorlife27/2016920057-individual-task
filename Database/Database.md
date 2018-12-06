@@ -1,59 +1,10 @@
-## Client
- ### 안드로이드
- - 모바일 운영체제
- - Google
-   - 선다 피차이
-   - 래리 페이지
-     - Alphabet
-     - 스탠퍼드 대학교
-   - 에릭 슈밋
-   - 로고
-   - 채용 
-     - 대졸 프로그래머 경쟁률 600:1
-     - 높은 연봉
-       - 대졸 신입 $110,818
-         - 뉴글러 모자
-     - 면접
-       - 전화면접
-       - 코딩테스트
-       - 자료구조, 알고리즘
-         - 논리적 접근
-       - 신의 직장
-   - 복지
-     - 자유로움
-     - 구글 식당
-     - 셔틀
-     - 체육시설
-     - 빨래방
-     - 병원
-     - 마사지 시설
-     - 사내 구글 스토어
-   - 커뮤니케이션
-     - PPT
-       - 간단명료
-     - 회의
-       - 사전계획
-       - 정확한 의제
-       - 구글캘린더
-       - 화상 회의
-   
- - 점유율 86%
- - 코드네임
-   - pie
-   - Oreo
-   - Nougat
- - Android wear
-   - Smart Watch
- - Android auto
-   -쉐보레 말리부 9세대
-   -카카오내비
- - Android TV
- - Android Things
-   - IOT Platform
- - Android 마스코트
-   - KT&SKT 합작
-  
- 
+## Database
+ ### MySQL
+ - Open Source DBMS
+   - launched in 1995
+ - My SQL AB made MySQL(1995)
+ - My SQL AB acquired by Sun Micro Systems inc.(2008)
+ - Sun Micro Systems inc. acquired by Oracle (2010)
  ### IOS
  - 모바일 운영체제
  - 애플
