@@ -25,8 +25,31 @@
    - Oracle sues over Google(Java Copyright lawsuit)
      - MariaDB as alternative
      - Apple apply PostgreSQL instead of MySQL in OS X Lion Server version
- ### IOS
- - 모바일 운영체제
+
+ ### MariaDB
+ - The MariaDB Foundation
+ - C++
+ - MariaDB is increasingly used instead of MySQL
+ - License
+   - GPL v2
+   - Connector
+     - LGPL license
+ - Version
+   - 5.5.x
+     - 5.5.60
+     -  forked based on MySQL 5.5 
+       - compatible with MySQL 5.5
+   - 10.0.x
+     - 10.0.35
+   - 10.1.x
+     - 10.1.34
+   - 10.2.x
+     - 10.2.16
+   - 10.3.x
+     - 10.3.8
+   - 10.4.x 
+     - continuing development
+ 
  - 애플
    - Shazam
    - 사과 로고
