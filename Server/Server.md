@@ -1,7 +1,7 @@
 ## Server
  ### Spring
  - Open source framework
- - framework based Java
+ - framework based on Java
    - Java
      - Sun Microsystems
      - James Arthur Gosling
@@ -29,6 +29,7 @@
      - Meteor
      - Hazelcast
   - Feature
+    - Korea goverment use Spring as standard
     - Plain Old Java Object(POJO)
       - 기존 라이브러리 지원 용이, 가벼운 객체
     - Aspecet Oriented Programming(AOP)
@@ -48,13 +49,14 @@
      - AOP : 스프링 프레임워크에서 제공하는 AOP 패키지 제공
      - Web : 웹 어플리케이션에 도움이되는 기능 제공
        - Spring Web MVC, Strcts, WebWork
+   
 ### Flask
   - Microframework
     - need not particular tools or libraries
   - Armin Ronacher
     - Pocoo
   - Commonly used with MongoDB
-  - Framework based Python
+  - Framework based on Python
     - python
     - Django
   - Applications
@@ -77,3 +79,37 @@
     - 100% WSGI 1.0 compiant
     - contains development server and debugger
  ### Ruby on Rails
+  - Web framework based on Ruby
+  - David Heinemeier Hansson 
+    - Denmark
+    - DHH
+      - automobile racing communities
+    - Creator of the Instiki wiki
+    - Partner at the web-based software development firm Basecamp
+    - Co-wrote Agile Web Development with Rails
+      - Part of The Facets of Ruby Series
+      - Dave Thomas
+    - Co-wrote Getting Real, Rework, Remote
+      - Jason Fried
+  - Full - Stack Framework
+    - Sinatra(Non Full-Stack web Framework)
+  - MVC model
+  - Simple and high class code
+  - Feature
+    - Strength
+      - develop with Ruby
+      - High productivity 
+        - Language character pointed at Azile
+      - convenient Database process
+      - Reducing detail set-up
+    - weakness
+      - developer scarcity
+    
+  - Site using Ruby on Rails
+    - 카카오
+    - 코드라이언
+    - 클래스팅
+    - 트라이캣치
+    - 판교장터
+    - 밸류옵션 
+    
