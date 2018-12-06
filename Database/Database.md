@@ -5,6 +5,26 @@
  - My SQL AB made MySQL(1995)
  - My SQL AB acquired by Sun Micro Systems inc.(2008)
  - Sun Micro Systems inc. acquired by Oracle (2010)
+ 
+ - license
+   - GPL
+   - Common license
+ - product sorts
+   - paid version
+     - 2,000~10.000$
+     - common license itself
+   - unpaid version
+     - "Community Edition"
+     - GPL
+ - high market share
+   - lots of CMS(contents management system) support MySQL
+     - MediaWiki
+     - Wordpress
+     - phpBB
+ - Weakness
+   - Oracle sues over Google(Java Copyright lawsuit)
+     - MariaDB as alternative
+     - Apple apply PostgreSQL instead of MySQL in OS X Lion Server version
  ### IOS
  - 모바일 운영체제
  - 애플
