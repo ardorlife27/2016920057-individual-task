@@ -16,5 +16,7 @@
  - MySQL에서 갈라져 나온 MariaDB는 최근 MySQL의 기술개발을 따라잡았으며 시장 점유율도 늘려가는 추세임을 고려하여 최종적으로 Maria DB를 선택
 ## Cache
  ### Redis
- - Memcached와 Redis 중에 Redis를 
-
+ - Memcached와 Redis 중에 Redis를 선택
+ - Memcached와 Redis의 장단점을 구별하기가 쉽자 않았음
+ - 실제로 Memcached를 쓰는 회사도 있고 Redis를 쓰는 회사들도 있었음
+ - Redis가 다양한 형태의 데이터를 다룰 수 있다는 특성에 주목하여 최종적으로 Redis를 선택
