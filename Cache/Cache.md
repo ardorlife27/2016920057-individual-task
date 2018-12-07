@@ -103,4 +103,7 @@
    - Redis is often ranked the most popular key-value database
      - DB-Engines ranking
    - Popular NoSQL
-  
+ - Guarantee permanency by disk saving.
+ - Work based on Single Threa
+ - Supporing clustering
+ - Redis does not have failover 
