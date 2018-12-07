@@ -1,45 +1,35 @@
 ## Client
  ### 안드로이드
- - 모바일 운영체제
- - IOS와 비교해 높은 점유율 차지
+ - Mobile Operating System
+ - Higher Market sharing than APPLE IOS
  - Google
-   - 선다 피차이
-   - 래리 페이지
+   - Sundar Pichai, Pichai Sundararajan
+     - Stanford University
+     - Warton School
+   - Larry Page, Lawrence E. Page
      - Alphabet
-     - 스탠퍼드 대학교
-   - 에릭 슈밋
-   - 로고
-   - 채용 
-     - 대졸 프로그래머 경쟁률 600:1
-     - 높은 연봉
-       - 대졸 신입 $110,818
-         - 뉴글러 모자
-     - 면접
-       - 전화면접
-       - 코딩테스트
-       - 자료구조, 알고리즘
-         - 논리적 접근
-       - 신의 직장
-   - 복지
-     - 자유로움
-     - 구글 식당
-     - 셔틀
-     - 체육시설
-     - 빨래방
-     - 병원
-     - 마사지 시설
-     - 사내 구글 스토어
-   - 커뮤니케이션
-     - PPT
-       - 간단명료
-     - 회의
-       - 사전계획
-       - 정확한 의제
-       - 구글캘린더
-       - 화상 회의
-   
- - 점유율 86%
- - 코드네임
+     - Stanford University
+   - Eric Emerson Schmidt
+     - Princeton University
+   - Logo
+   - Recruitment 
+     - new programmer recruit 600:1
+     - newcomer software engineer annual salary $110,818
+       -Noogler cap
+     - Job interview
+       - telephone interview
+       - coding test
+       - data structure, algorithm sovlving test
+         - requiring logical access
+   - Welfare
+     - Freedom
+     - Google cafeteria
+     - Shuttle
+     - Gym
+     - Hospital
+     - Google store in company
+ - Market share 86%
+ - Code name
    - pie
    - Oreo
    - Nougat
@@ -51,35 +41,33 @@
  - Android TV
  - Android Things
    - IOT Platform
- - Android 마스코트
-   - KT&SKT 합작
+ - Android Mascot
+   - KT&SKT collaboration
   
  
  ### IOS
- - 모바일 운영체제
- - 애플
+ - Mobile Operating System
+ - Apple
    - Shazam
-   - 사과 로고
-   - 스티븐 잡스
-     - 췌장암
-   - 스티브 워즈니악
-   - 팀 쿡
+   - Logo
+   - Steve Jobs
+   - Steve Wozniak
+   - Tim cook
      -MBA
-   - 존 스컬리
+   - John Scully
    
    
- - 앱스토어
- - 안정성
- - 보안
-   - 애플에 의해 관리철저
-   - 보안성 우수
-   - 폐쇄성
- - 최적화
- - 아이튠즈
- - 배터리게이트
-   - 2017년
-   - 스로틀링
-   - IOS 업데이트
-   - 소송
-   - IOS업데이트 후 해결
- - 친환경 정책
+ - App store
+ - Safteniess
+ - Security
+   - Apple company manage security Software and Hardware itself
+   - Superb security
+   - Being closed
+ - Optimization
+ - Itunes
+ - Iphon bettery problem(2017)
+   - Throttling
+   - IOS update
+   - lawsuit
+   - Solved problem after ios update
+ - eco-friendly policy
