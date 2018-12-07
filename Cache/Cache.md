@@ -100,7 +100,7 @@
      - Stream of entries with consumer groups
      - Geospatial data through the implementation of the geohash technique since Redis 3.2.
  - Popularity
-   -Redis is often ranked the most popular key-value database
+   - Redis is often ranked the most popular key-value database
      - DB-Engines ranking
-   -Popular NoSQL
+   - Popular NoSQL
   
