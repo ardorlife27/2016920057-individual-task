@@ -1,5 +1,5 @@
 ## Client
- ### 안드로이드
+ ### Android
  - Mobile Operating System
  - Higher Market sharing than APPLE IOS
  - Google
