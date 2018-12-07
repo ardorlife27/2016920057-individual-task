@@ -36,8 +36,8 @@
  - Android wear
    - Smart Watch
  - Android auto
-   -쉐보레 말리부 9세대
-   -카카오내비
+   - 쉐보레 말리부 9세대
+   - 카카오내비
  - Android TV
  - Android Things
    - IOT Platform
